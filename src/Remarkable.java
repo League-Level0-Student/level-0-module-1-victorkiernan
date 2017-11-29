@@ -16,7 +16,7 @@ else if(name.equalsIgnoreCase("Max")){
 }
 else if(name.equalsIgnoreCase("Emil")) {
 	JOptionPane.showMessageDialog(null, "Emil, you are an awesome person to know!");
-}
+	}
 else if(name.equalsIgnoreCase("Callum")) {
 	JOptionPane.showMessageDialog(null,"Callum, you are an awesome persom" );
 }
@@ -24,30 +24,10 @@ else if(name.equalsIgnoreCase("Lauren")) {
 	JOptionPane.showMessageDialog(null, "Lauren, you are a very smart!");
 }
 else if(name.equalsIgnoreCase("Cruz")) {
-	JOptionPane.showMessageDialog(null, "Hello Cruz. You are a very funny guy");
+	JOptionPane.showMessageDialog(null, "Hello Cruz. You are a very funny person");
 }
 else {
 	JOptionPane.showMessageDialog(null,  "USER: "+name+" NOT IN DATABASE! YOU ARE NOT SUPPOSED TO BE HERE SELF DESTRUCT BEGUN! THIS COMPUTER WILL BLOW UP IN 2453 MONTHS!");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
 }
