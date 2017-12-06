@@ -17,8 +17,12 @@ public class TheRiddler {
 
 		// 6. Add some more riddles
 
-		// 2. Make a pop up to show the score.
+		// 7. Make a pop up to show the score.
 		
+	
+	
+	int;
+	
 	}
 }
 

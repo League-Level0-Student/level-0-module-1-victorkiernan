@@ -4,7 +4,7 @@ public class unbirthday {
 public static void main(String[] args) {
 
 	String birthday=JOptionPane.showInputDialog("What is your birthday");
-	if(birthday.equals("11/29")) {
+	if(birthday.equals("12/6")) {
 		JOptionPane.showMessageDialog(null, "Happy Birthday!");
 	}
 	else {
